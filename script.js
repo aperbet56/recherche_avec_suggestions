@@ -8,8 +8,8 @@ let availableKeywords = [
   "CSS",
   "JavaScript",
   "React",
-  "langage de programmation",
-  "développement web",
+  "Langage de programmation",
+  "Développement web",
   "Comment créér un site web",
   "Tutoriels de développement web",
   "Où apprendre à coder",
@@ -35,6 +35,7 @@ searchInput.addEventListener("keyup", () => {
     });
     console.log(result);
   }
+  // Appel de la fonction displayResults
   displayResults(result);
 
   // S'il n'y a pas de résultat pour cette recherche
