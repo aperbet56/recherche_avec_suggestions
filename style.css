@@ -25,7 +25,7 @@ body {
     background-color: #ffffff;
     width: 550px;
     border-radius: 8px;
-    transition: box-shadox 0.3 ease-in-out;
+    transition: box-shadow 0.3 ease-in-out;
 }
 
 .search__box:hover {
